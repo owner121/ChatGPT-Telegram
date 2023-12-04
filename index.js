@@ -8,7 +8,7 @@ const axios = require('axios');
  * Telegram: @h3dev
 **/
 
-const token = 'BOT_TOKEN'; // your telegram bot token
+const token = '6488713300:AAE4vJ6rJcm8ixNl2RYk7gRDsOinZB-FZJk'; // your telegram bot token
 
 const bot = new Telegraf(token);
 
